@@ -25,3 +25,5 @@ You can browse but signing in is kinda buggy
 Kinda buggy but it works 
 
 [Go to the website](https://imgflip.com/)
+
+[Return to home page](./index.html)
