@@ -27,3 +27,5 @@ This website is the landing page of CTGP-7, the modpack for Mario Kart 7.
 Pretendo is a free and open source replacement for Nintendo's servers for both the 3DS and Wii U. Login works but you can't register because of the captcha. Even if you log in you could do almost nothing since the forum doesn't work.
 
 [Go to the website](https://pretendo.network/)
+
+[Return to home page](./index.html)
