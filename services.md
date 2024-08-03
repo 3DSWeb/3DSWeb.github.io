@@ -19,3 +19,9 @@ The old version of reddit still works perfectly in the Nintendo 3DS browser. It'
 You can browse but signing in is kinda buggy
 
 [Go to the website](https://amazon.com/)
+
+### Imgflip
+
+Kinda buggy but it works 
+
+[Go to the website](https://imgflip.com/)
