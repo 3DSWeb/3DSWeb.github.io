@@ -25,3 +25,9 @@ This isn't reccomended in "Old" 3DS models since it uses HTML5 but it works almo
 FrogFind is like DuckDuckGo but with a more "retro" style.
 
 [Go to the website](http://www.frogfind.com/)
+
+### Bing
+
+Bing also work well in "New" 3DS consoles, a bit less well in "Old" 3DS consoles. 
+
+[Go to the website](https://www.bing.com/)
