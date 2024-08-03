@@ -45,3 +45,6 @@ This microsite is the FAQ of the Nintendo Network ID account.
 This microsite contains the full Super Mario Maker guide.
 
 [Go to the website](https://microsite.nintendo-europe.com/super-mario-maker-manual/itCH/index.html)
+
+[Return to home page](./index.html)
+
